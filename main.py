@@ -1,4 +1,7 @@
-"""Entry for make.fun: One Line, Big Laugh."""
+"""Entry for make.fun: One Line, Big Laugh.
+
+Airplane mode as life advice, crashing quietly at altitude.
+"""
 import os
 
 LINE = "I put my phone on airplane mode to fix my life and now it just crashes more quietly at a higher altitude."
